@@ -1,0 +1,13 @@
+{
+  "name": "@bust/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint configuration for my projects",
+  "author": "busticated",
+  "license": "UNLICENSED",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {}
+}
