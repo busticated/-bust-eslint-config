@@ -2,8 +2,16 @@
   "name": "@bust/eslint-config",
   "version": "1.0.0",
   "description": "ESLint configuration for my projects",
+  "homepage": "https://github.com/busticated/bust-eslint-config#readme",
   "author": "busticated",
   "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busticated/bust-eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/busticated/bust-eslint-config/issues"
+  },
   "scripts": {
     "lint": "eslint ."
   },
