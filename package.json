@@ -8,6 +8,10 @@
     "lint": "eslint ."
   },
   "dependencies": {},
-  "devDependencies": {},
-  "peerDependencies": {}
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=3"
+  }
 }
