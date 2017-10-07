@@ -127,6 +127,11 @@ module.exports = {
         }],
         'space-before-function-paren': [2, 'never'],
         'space-in-parens': [2, 'never'],
+        'space-before-blocks': [2, {
+            functions: 'never',
+            keywords: 'never',
+            classes: 'always'
+        }],
         'arrow-body-style': [2, 'as-needed'],
         'arrow-parens': [2, 'as-needed'],
         'arrow-spacing': [2, { before: true, after: true }],
